@@ -1,0 +1,16 @@
+.starteddiv{
+    /* border: 2px solid red; */
+    width: 600px;
+    padding-left: 30px;
+    padding-right: 32px;
+    border-radius: 10px;
+    padding-top: 20px;
+    border-radius: 10px;
+    background-color: #F3F2FC;
+    padding-bottom: 20px;
+}
+
+.mymainh1{
+    font-size: 40px;
+    font-weight: 700;
+}

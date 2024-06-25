@@ -1,0 +1,267 @@
+.countrytable{
+    /* border: 2px solid red; */
+    width: 74%;
+    line-height: 4;
+    margin: 0px auto;
+}
+
+
+.communityheader{
+    /* border: 2px solid red; */
+margin-bottom: 40px;
+    height: 500px;
+    background-color: #F3F2FC;
+}
+.ch-5{
+    color: blue;
+}
+.ch1-1{
+    font-size: 70px;
+    font-weight: 700;
+}
+.comtext{
+    /* border: 2px solid red; */
+    width: 37%;
+    height: 400px;
+    padding-top: 50px;
+}
+.cp-1{
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+.countrydiv{
+    margin-top: -30px !important;
+}
+
+
+
+
+.countryimages{
+    border: 2px solid red;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+width: 93%;
+margin: 100px auto;
+
+}
+
+.cm1{
+    width: 64%;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.cm2{
+    width: 30%;
+    margin-bottom: 10px;
+
+
+}
+
+.cm3{
+
+    margin-right: 10px;
+    width: 27%;
+
+
+}
+
+.cm4{
+    width: 100px;
+    margin-right: 10px;
+    width: 39%;
+
+
+
+}
+
+.cm5{
+    width: 27.5%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.countryh1-1{
+    border: 2px solid red;
+    width: 35%;
+    margin: 0px auto 50px;
+
+
+    font-weight: 790;
+}
+
+.countries{
+    margin-top: 100px;
+}
+
+.paulimg{
+    width: 70px;
+    border-radius: 30px;
+}
+.paultable{
+    border: 2px solid red;
+    width: 73%;
+    margin: 0px auto;
+    margin-top: 50px;
+    line-height: 2;
+}
+.pauldata{
+    /* border: 2px solid red; */
+
+    padding-right: 25px;
+}
+
+.hostingtitle{
+    font-size: 30px;
+    font-weight: 700;
+}
+.hostingtext{
+    font-size: 20px;
+}
+.hostingh5{
+    font-size: 15px;
+    color: blue;
+}
+
+.hosting{
+    border: 2px solid red;
+    display: flex;
+    flex-wrap: wrap;
+    width: 70%;
+    height: 500px;
+    margin: 0px auto;
+    justify-content: space-around;
+
+}
+.hostingmycards{
+    margin-bottom: 30px;
+}
+
+.hostingh1-1{
+    /* border: 2px solid red; */
+    width:60% ;
+    margin-left: 240px;
+    margin-top: 100px;
+    font-weight: 700;
+    font-size:50px;
+    
+}
+
+.globalh1{
+    border: 2px solid red;
+    width: 40%;
+    text-align: center;
+    margin: 60px auto  30px;
+
+    font-weight: 700;
+    font-size:50px;
+}
+
+.socialmedia{
+    border: 2px solid red;
+    display: flex;
+    width:40%;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0px auto;
+}
+.socialimg{
+    width: 60%;
+    
+    
+}
+
+.communitylast{
+    display: flex;
+    margin: 0px auto;
+    /* border: 2px solid red; */
+    width: 73%;
+    margin-top: 100px;
+    padding:60px;
+    background-color: #F3F2FC;
+    border-radius: 10px;
+}
+
+.lastimg{
+    width: 45%;
+    margin-left: 100px;
+    border: 2px solid red;
+}
+
+.lasttext{
+    /* border: 2px solid red; */
+    width: 470px;
+}
+.lasttexth1{
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.lasttextp{
+    font-size: 20px;
+}
+
+.lastbtn1{
+    padding-left: 30px;
+    padding-right: 30px;
+    height: 45px;
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+}
+
+.lastbtn2{
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 45px;
+    border-radius: 5px;
+    /* background-color: blue; */
+    color: blue;
+    margin-left: 20px;
+    border-color: blue;
+}
+
+.lastimg1{
+    width: 100%;
+}

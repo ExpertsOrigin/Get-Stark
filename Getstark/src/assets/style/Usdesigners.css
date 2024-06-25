@@ -1,0 +1,140 @@
+
+.usheader{
+    /* border: 2px solid red; */
+    display: flex;
+}
+
+.ushtext{
+    /* border: 2px solid red; */
+    width: 550px;
+    font-family: ArminGrotesk, ArminGroteskBlack, ArminGroteskSemiBold, sans-serif;
+    margin-left: 230px;
+    margin-top: 90px;
+}
+.ush1-1{
+font-size: 70px;
+font-weight: 800;
+line-height: 103px;
+color: rgb(16, 40, 75);
+/* border: 2px solid red; */
+}
+.usp-1{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.ushimg{
+    /* border: 2px solid red; */
+    /* width: 400px; */
+    /* border: 2px solid red; */
+margin-left: 43px;
+
+    padding: 0px;
+}
+.ushimg img{
+    width: 700px;
+}
+.usbtn1{
+    background-color: blue;
+    color: white;
+    height: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+}
+.usbtn2{
+    /* background-color: blue; */
+    color: blue;
+    border-color: blue;
+    height: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+
+
+
+
+/* section   @@@@@@@   1 */
+
+
+
+.ussection1{
+    margin-top: 110px;
+    /* border: 2px solid red; */
+    text-align: center;
+}
+.uss1img{
+    /* border: 2px solid red; */
+    text-align: center;
+
+}
+
+.ussection1 img{
+    width: 1200px;
+    
+}
+
+.uss1h1-1{
+    /* border: 2px solid red; */
+    font-size: 56px;
+    font-weight: 700;
+    width: 850px;
+    text-align: center;
+    margin: 50px auto 0px;
+
+}
+
+.uss1p-1{
+    /* border: 2px solid red; */
+    font-size:20px ;
+    font-weight:400 ;
+    line-height: 30px;
+    color: rgb(16, 40, 75);
+    text-align: center;
+    width:780px ;
+    margin: 30px auto 0px;
+
+}
+.uss1btn1{
+    background-color: blue;
+    color: white;
+    height: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+
+
+
+/* section   @@@@@@@   2 */
+
+.magic{
+    /* border: 2px solid red; */
+    display: flex;
+    width: 700px;
+    margin: 50px auto 120px;
+}
+.magic1{
+    /* border: 2px solid red; */
+    text-align: left;
+    line-height: 2.5;
+    width: 350px;
+}
+.magic2{
+    /* border: 2px solid red; */
+    text-align: left;
+    line-height: 2.5;
+    width: 350px;
+
+}
+
+.magich{
+    width: 700px;
+}
+.magicp img{
+    width: 20px;
+}

@@ -1,0 +1,57 @@
+.wcag{
+    background-image: url('../images/supportback.png');
+    height: 510px;
+    background-size: cover;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.wcagh1-1{
+    font-size: 80px;
+    font-weight: 800;
+    color: white;
+    
+}
+
+.wcagp-1{
+    /* border: 2px solid red; */
+    color: white;
+    font-size: 20px;
+    width: 30%;
+}
+.asidelist{
+    /* padding-left: 20px; */
+    /* display: block; */
+    border: none;
+    margin-top: 20px;
+    /* color: blue; */
+}
+.wcagaside{
+    /* border: 2px solid red; */
+    width: 19%;
+    height: 700px;
+    margin-left: 250px;
+}
+
+.wcagmaintext{
+    border: 2px solid red;
+    width: 44%;
+    margin-left: 20px;
+}
+
+.wcagtext{
+    /* border: 2px solid red; */
+    display: flex;
+    margin-top: 50px;
+}
+
+.wcagtexth1-1{
+    font-size: 50px;
+    font-weight: 700;
+}
+.wcagetextp-1{
+    font-size: 19px;
+}

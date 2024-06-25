@@ -1,0 +1,363 @@
+*{
+    margin: 0px ;
+    padding: 0px;
+    /* background-color:#F6F6EB ; */
+}
+
+/* @@@@  section = one  @@@@ */
+
+.soneh1-1{
+    /* border: 2px solid red; */
+    width: 20%;
+    margin: 20px auto 20px;
+    text-align: center;
+
+}
+.sonep1{
+    /* border: 2px solid red; */
+    margin: 20px auto 80px;
+    width: 38%;
+    text-align: center;
+    font-size: 19px;
+}
+
+.sonecards1{
+    /* border: 2px solid red; */
+    
+    display: flex;
+    justify-content: space-around;
+    width: 65%;
+    margin: 0px auto 0px;
+    
+}
+
+.mycard1{
+    /* border: 2px solid black; */
+    border-radius: 10px;
+    
+}
+
+#card3border{
+    border-color: blue;
+}
+
+.plancards{
+    /* border: 2px solid red; */
+    display: flex;
+    margin: 30px auto;
+    width: 100%;
+    
+    
+}
+.plancard1{
+    margin: 0px auto;
+}
+
+
+.sonebusinessplan{
+    margin-top:130px ;
+width: 75%;
+margin: 0px auto;
+
+    
+    /* border: 2px solid red; */
+}
+.soneplanh1{
+    font-size: 50px;
+
+    font-weight: 700;
+    text-align: center;
+}
+.soneplanp1{
+    text-align: center;
+    /* border: 2px solid red; */
+    margin: 0px auto;
+    width: 38%;
+}
+
+
+/*  @@@@@@@@@   soneenterprise   @@@@@@@@ */
+.soneenterprise{
+    /* border: 2px solid black; */
+    border-radius: 8px;
+
+    width: 70%;
+    margin:60px auto;
+}
+
+.enterprisetable{
+    /* border: 2px solid gray; */
+    margin: 0px auto;
+    
+    
+}
+
+.enterprisep{
+    /* border: 2px solid red; */
+    /* display: inline; */
+    margin-left: 100px;
+    width: 40%;
+}
+
+.enterpriseh3{
+
+    /* display: inline; */
+    margin-left: 100px;
+}
+.enterprisebtn{
+    width: 220px;
+    height: 40px;
+    border-radius: 5px;
+    float: right;
+    margin-right: 100px;
+    position: relative;
+    bottom: 20px;
+    color: blue;
+    border-color: blue;
+    
+}
+.enterprisetable{
+    width: 89%;
+}
+.enterprisetabletr{
+display: flex;
+}
+
+.plancards{
+/* border: 2px solid red; */
+display: flex;
+flex-wrap: wrap;
+width: 100%;
+}
+
+.sonebusinessplan{
+    /* border: 2px solid red; */
+}
+
+
+
+
+
+
+
+
+
+
+.compareplan{
+    /* border: 2px solid red; */
+    margin: 0px auto 0px;
+    width: 69.3%;
+}
+
+.compareplanh1{
+    font-size: 50px;
+    font-weight: 790;
+    text-align: center;
+    width: 370px;
+    margin: 20px auto;
+    background-color: #99D6CC;
+    
+    /* border: 2px solid red; */
+}
+
+.comparep1{
+    /* border: 2px solid red; */
+    text-align: center;
+    margin: 0px auto;
+    width: 500px;
+    font-size: 20px;
+}
+.fa-circle-check{
+    color: blue;
+}
+.comparing{
+    /* border-collapse: collapse; */
+  width: 100%;
+
+}
+
+.cardsimages{
+    width: 200px;
+    /* background-color:#F6F6EB ; */
+}
+.comparing td{
+    border: 1px solid #ddd;
+    padding: 11px;
+}
+
+.comparetable{
+    /* border: 2px solid blue; */
+    border-radius: 10px;
+    width: 1045px;
+    padding: 20px 20px 20px 20px;
+}
+.tablep-1{
+    /* border: 2px solid red; */
+    width: 70%;
+}
+.tablep-2{
+    /* border: 2px solid red; */
+    width: 380px;
+}
+
+.tablep-3{
+    /* border: 2px solid red; */
+    width: 380px;
+}
+.tablep-4{
+    /* border: 2px solid red; */
+    width: 400px;
+}
+
+.ready{
+    /* border: 2px solid blue; */
+    width: 66%;
+    /* padding: 10px 100px 10px 100px; */
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    margin: 40px 0px 30px 250px;
+    background-color: #F3F2FC;
+    height: 110px;
+
+}
+.ready img{
+    width: 100px;
+    margin-right: 20px;
+    margin-left: 50px;
+    background-color: #F3F2FC;
+}
+.ready button{
+    background-color: blue;
+    width: 200px;
+    border-radius: 10px;
+    padding-left: 22px;
+    padding-right: 22px;
+    height: 50px;
+    margin-right: 60px;
+    margin-left: 10px;
+    color: white;
+}
+.readyp{
+    background:#F3F2FC;
+    font-size: 20px;
+}
+b{
+    background-color: #F3F2FC;
+}
+
+.tableh2-4{
+    margin-top: 20px;
+}
+
+
+
+
+@media screen and (max-width:426px){
+
+    .sone{
+        width: 100%;
+        /* border: 2px solid red; */
+    }
+    .sonep1{
+        width: 85%;
+    }
+    .soneh1-1{
+        width: 70%;
+    }
+    .sonecards1{
+        /* border: 2px solid red; */
+        width: 100%;
+        flex-wrap: wrap;
+        /* height: 2500px; */
+    }
+
+    .pricingcards{
+        /* border: 2px solid red; */
+        margin-bottom: 20px;
+    }
+
+
+.enterpriseh3{
+    margin-left: 20px;
+    /* border: 2px solid red; */
+    width: 50%;
+}
+.enterprisep{
+    width: 60%;
+    /* border: 2px solid red; */
+    margin-left: 20px;
+}
+
+.enterprisebtn{
+    width: 90%;
+    /* margin-left: 10px; */
+    margin-right: 17px;
+    margin-top: 20px;
+}
+
+
+.soneenterprise{
+    width: 90%;
+
+}
+
+.sonebusinessplan{
+    /* border: 2px solid red; */
+    width: 100%;
+}
+.soneplanp1{
+    width: 80%;
+    font-size: 20px;
+}
+
+.compareplan{
+    border: 2px solid red;
+    width: 100%;
+}
+.comparep1{
+    width: 80%;
+}
+
+.comparing{
+    border: 2px solid red;
+    width: 100%;
+}
+
+.comparetable{
+    width: 100%;
+}
+
+.comparing .comparetd{
+flex-wrap: wrap;
+    border: 2px solid red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

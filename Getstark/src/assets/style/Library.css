@@ -1,0 +1,107 @@
+.cardsmyimg{
+    /* border: 2px solid red; */
+    width:15%;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+/* 
+.librarycards{
+    border: 2px solid red;
+} */
+
+.librarysixcards{
+    border: 2px solid red;
+    display: flex;
+    flex-wrap: wrap;
+    width: 88%;
+    justify-content: space-around;
+    
+
+}
+
+.librarymain{
+    border: 2px solid red;
+    /* width: ; */
+    display: flex;
+    margin-top: 50px;
+}
+
+.libraryaside{
+    border: 2px solid red;
+    width: 39%;
+    line-height: 2.5;
+    margin-left: 150px;
+    margin-right: 10px;
+}
+
+
+.asideh5, input,.librarya,.libraryselect {
+    display: block;
+    text-decoration: none;
+    width: 100%;
+    line-height: 2.5;
+    
+}
+
+.libraryselect{
+    margin-top: 20px;
+}
+
+.contributestark{
+    border: 2px solid red;
+    background-color: #F3F2FC;
+    height: 180px;
+    border-radius: 5px;
+    line-height: 1.5;
+    margin-top: 30px;
+    width: 100%;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.contributebtn{
+    padding-right: 30px;
+    padding-left: 30px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+}
+
+.libraryh1-1{
+    display: inline-block;
+    width: 90%;
+    border: 2px solid red;
+    padding-left: 20px;
+}
+.cardsin{
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+.librarydown{
+    /* border: 2px solid red; */
+    margin-top: 60px;
+}
+.librarydowncards1{
+    background-image: url('../images/library\ \(1\).png');
+    background-size: cover;
+    height: 400px;
+    
+}
+.librarydowncards2{
+    background-image: url('../images/library\ \(2\).png');
+    background-size: cover;
+margin-left: 30px;
+    height: 400px;
+}
+.librarydowncards3{
+    background-image: url('../images/library\ \(3\).png');
+    background-size: cover;
+    height: 400px;
+    margin-left: 30px;
+}
+
+.finelibrary{
+    display: flex;
+}

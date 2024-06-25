@@ -1,0 +1,29 @@
+.extra{
+    /* border: 2px solid red; */
+    width: 620px;
+    
+}
+.supportus{
+    /* border: 2px solid red; */
+    width: 620px;
+}
+.salesus{
+    /* border: 2px solid red; */
+    width: 620px;
+}
+.communityus{
+    /* border: 2px solid red; */
+    width: 620px;
+}
+.myp{
+    font-size: 19px;
+    background-color: transparent;
+}
+.mymargin{
+    margin-bottom: 15px;
+    }
+.myh1{
+    font-size: 30px;
+    font-weight: 700;
+    background-color: transparent;
+}

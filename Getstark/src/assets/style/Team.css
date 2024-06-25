@@ -1,0 +1,9 @@
+.team{
+    border: 2px solid red;
+    width: 620px;
+    padding-left: 30px;
+    padding-right: 40px;
+    border-radius: 10px;
+    padding-top: 20px;
+    background-color: #F3F2FC;
+}
